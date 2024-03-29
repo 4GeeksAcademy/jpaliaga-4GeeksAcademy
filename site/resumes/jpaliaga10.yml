@@ -1,0 +1,98 @@
+template: "online-cv"
+skin: "orange"
+
+basic_info:
+
+
+    first_name: Jean Pool 
+    last_name: Aiaga Morales
+    
+    
+    Lema: lealtad, aprendizaje, ayudar, pasión
+    
+    
+    enfocado: Aprendiendo todo lo que tenga que ver con programación
+    
+    
+    Resumen: |
+      Soy una persona que ama con pasión la buena musica, estar en constante movimiento, sea yendo al gym, caminar, hacer deporte como futbol entre otros.
+      Actualmente trabajo, estudio, voy al gym, casi todos los dias y me gusta esa sensación de aprovechar de manera positiva el tiempo que tengo.
+      Quiero y deseo llegar a ser un buen programador, se que no va a ser sencillo, pero es la meta que tengo para este 2024, poder empezar a laborar en este mundo
+      de la programación.
+    
+   
+    avatar: https://media-exp1.licdn.com/dms/image/C4D03AQFWMVa6qahy5Q/profile-displayphoto-shrink_800_800/0/1596661064076?e=1617840000&v=beta&t=QGteJrxLl5jsPF79co8hcdmaHF24LK0Bl-O7cRRhY7g
+
+    
+    email: jeanpool1610@gmail.com
+    # phone: 611 - 316 - 591 
+    linkedin: www.linkedin.com/in/jean-pool-aliaga-morales-3ab47b287
+    
+    
+    github: jpaliaga10
+    
+    languages:
+      - idioma: Español
+        nivel: Nativo
+
+      - idioma: ingles
+        nivel: básico  
+
+    
+    interests:
+      - item: musica
+
+      - item: deportes
+
+      - item: ver peliculas
+
+
+
+    educación:
+
+      Primaria - secundaria:
+      -Año de finalizacion: 2015
+      -Colegio: I.E Vasil Levski 7014
+
+
+experiencias:
+    - role: Operario de producción 
+      time: 2014 - 2015
+      company: Corporación Lindley
+    
+      - paletizar y despaletizar las cajas de gaseosas
+      - control de calidad al producto terminado
+      - mantenimiento de las maquinas
+
+      -role: Operario de produccion
+       time: 2016 - 2018
+       company: Mondelez International
+
+       - control de calidad al producto terminado
+       - llevar producto a las maquinas envasadoras
+       - mantenimiento del area de trabajo
+
+      -role: Agente inmobiliario
+       time: 2021 - 2023
+       company: Tubicacion
+
+       - encargado de la gestion de alquiler / venta de propiedades
+       - encargado de encontrar un acuerdo entre comprador y vendedor
+       - encargado de llevar la documentacion del proceso de compra o venta hasta su finalizacion
+       - encargado de agendar las visitas a la propiedad en venta / alquiler
+
+# 
+     Your project portfolio:
+
+     - titulo: proyecto instagram
+       link: "https://github.com/4GeeksAcademy/jpaliaga-proyecto-insta"
+
+
+    Habilidades:
+       - name: Javascript
+         level: 10%
+
+
+
+       - name: HTML5 & CSS
+         level: 30%
